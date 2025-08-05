@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Azharul Islam
 
-🚀 **Senior Software Engineer | Mobile App Team Lead**  
+🚀 **Senior Software Engineer**  
 🎯 Focused on building high-quality, scalable mobile applications with Flutter and Kotlin.
 
 ---
@@ -50,7 +50,7 @@
 ## 📫 Contact
 
 - 📧 Email: mdazharcse14@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/azharcse](https://www.linkedin.com/in/azharcse/))
+- 💼 LinkedIn: [linkedin.com/in/azharcse](https://www.linkedin.com/in/azharcse/)
 - 🌐 Portfolio: *Coming soon*
 
 ---
