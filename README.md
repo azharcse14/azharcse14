@@ -32,7 +32,7 @@
 ## 💼 Work Experience
 
 - 🏢 **Senior Software Engineer** at Travela (2025–Present)
-- 🏢 **Senior Software Engineer** at MoveOn Technologies Ltd (2024–2025)
+- 🏢 **Senior Software Engineer** at MoveOn Technologies Ltd (2023–2025)
 - 🏢 **Software Engineer** at Royex Technologies LLC, Dubai (2022–2023)
 - 🏢 **Software Engineer** at Aventra Consultant Ltd, Dhaka (2021–2022)
 - 🎓 **Android Intern** at Centurion IT (2020–2021)
