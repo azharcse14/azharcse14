@@ -51,7 +51,7 @@
 
 - 📧 Email: mdazharcse14@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/azharcse](https://www.linkedin.com/in/azharcse/)
-- 🌐 Portfolio: *Coming soon*
+- 🌐 Portfolio: https://azharulislam.site
 
 ---
 
